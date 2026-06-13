@@ -49,12 +49,11 @@ The dashboard provides season-wise insights into team performance, player achiev
 - Power Query
 - Excel / CSV Dataset
 
-## 🔗 Live Dashboard
-
-### View Online Dashboard
-<a href="https://app.powerbi.com/view?r=YOUR_LINK" target="_blank">
-View
-</a>
+## 📈 Key Insights
+Analyze IPL trends from 2008–2025.
+Compare team performances across seasons.
+Track top-performing batsmen and bowlers.
+Explore season-wise points tables and statistics.
 
 
 
