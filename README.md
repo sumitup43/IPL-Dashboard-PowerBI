@@ -52,7 +52,9 @@ The dashboard provides season-wise insights into team performance, player achiev
 ## 🔗 Live Dashboard
 
 ### View Online Dashboard
-<a href="https://github.com/sumitup43/IPL-Dashboard-PowerBI/blob/main/ipl%20dashboard.pbix"></a>
+<a href="https://app.powerbi.com/view?r=YOUR_LINK" target="_blank">
+View
+</a>
 
 
 
